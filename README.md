@@ -1,5 +1,5 @@
-- Hi, I’m @nachorpaez [🔑](https://keybase.io/nachorpaez)
-- I’m interested in Information Security, Automation, DevOps and Coding
+- Hi, I’m @nachorpaez
+- I’m interested in information security, automation, devOps and coding
 - Currently working at Yelp as a Security Engenieer and Incident Responder
 
 <!---
